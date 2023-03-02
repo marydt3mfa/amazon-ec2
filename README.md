@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
