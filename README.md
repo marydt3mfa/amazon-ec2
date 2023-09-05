@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add HUB-SDK Docs reference section (#7781)
