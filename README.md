@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Python refactorings and simplifications (#7549)
