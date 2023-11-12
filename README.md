@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Update pyproject.toml and Docs (#7274)
