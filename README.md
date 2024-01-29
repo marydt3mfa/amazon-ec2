@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
