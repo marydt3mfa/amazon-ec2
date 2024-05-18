@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
