@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add plot_images conf_thresh parameter (#8446)
