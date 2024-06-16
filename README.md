@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
