@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Updating a typo on paddlepaddle.md (#9108)
