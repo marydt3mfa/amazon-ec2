@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
